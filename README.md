@@ -47,7 +47,7 @@ a href = "https://www.linkedin.com/in/onkar-more-b29a92221/"><img src="https://i
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=onkarmore3489">
+    <img src="https://komarev.com/ghpvc/?username=SunilPandhare0101">
   </a>
 
 <!--
@@ -55,7 +55,6 @@ a href = "https://www.linkedin.com/in/onkar-more-b29a92221/"><img src="https://i
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
