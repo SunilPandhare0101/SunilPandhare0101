@@ -38,10 +38,10 @@ various domains.<br>
   
   <p align="left">
 
-<a href = "https://www.linkedin.com/in/onkar-more-b29a92221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!--<a href = "https://www.linkedin.com/in/onkar-more-b29a92221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/OnkarMore3489"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/omii_more3489/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+-->
 </p>
 
 ## ❤ Views and Followers
