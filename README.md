@@ -29,9 +29,9 @@ various domains.<br>
   
 <h2><b>Summary</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onkarmore3489&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SunilPandhare0101&theme=highcontrast)](https://git.io/streak-stats)
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=onkarmore3489&count_private=true&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SunilPandhare0101&count_private=true&show_icons=true&theme=radical)
 <br>
 
 <h3 align="left">Connect with me:</h3>
